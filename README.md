@@ -1,4 +1,4 @@
-[![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdycWs5MHlqdDM1dzA1eTFwMGRrZnZsbDRrMGU1cGhncWw3cnpzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)](https://github.com/LakshSharma888)
+[![MasterHead](https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif)](https://github.com/LakshSharma888)
 <h1 align="center">Hi 👋, I'm Laksh Sharma</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
