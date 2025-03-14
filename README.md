@@ -1,6 +1,7 @@
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv">via GIPHY</a></p>
+[![MasterHead] (https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdycWs5MHlqdDM1dzA1eTFwMGRrZnZsbDRrMGU1cGhncWw3cnpzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)]
+<h1 align="center">Hi 👋. I'm Laksh Sharma</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/22212568/file/original-ff1e2347867631f39c5e5341cc22c0dd.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshsharma888&label=Profile%20views&color=0e75b6&style=flat" alt="lakshsharma888" /> </p>
 
