@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
-<h1 align="center">Hi 👋. I'm Laksh Sharma</h1>
+<h1 align="center">Hi 👋, I'm Laksh Sharma</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/22212568/file/original-ff1e2347867631f39c5e5341cc22c0dd.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshsharma888&label=Profile%20views&color=0e75b6&style=flat" alt="lakshsharma888" /> </p>
 
@@ -10,8 +10,6 @@
 - 🔭 I’m currently working on **AI integration**
 
 - 🌱 I’m currently learning **Python**
-
-- 👨‍💻 All of my projects are available at [https://portfoliolakshhh.netlify.app/](https://portfoliolakshhh.netlify.app/)
 
 - 💬 Ask me about **MERN,Java**
 
