@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/LakshSharma888)
+[![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdycWs5MHlqdDM1dzA1eTFwMGRrZnZsbDRrMGU1cGhncWw3cnpzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)](https://github.com/LakshSharma888)
 <h1 align="center">Hi 👋, I'm Laksh Sharma</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
