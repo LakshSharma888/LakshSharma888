@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif)](https://github.com/LakshSharma888)
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://github.com/LakshSharma888)
 <h1 align="center">Hi 👋, I'm Laksh Sharma</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
