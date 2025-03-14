@@ -1,6 +1,6 @@
 
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?t=st=1741944156~exp=1741947756~hmac=f2597f82ed8b7d62767bc5280365a5c9348bdef7dff4c7ef1a6cc6f656ef1442&w=900">
+<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshsharma888&label=Profile%20views&color=0e75b6&style=flat" alt="lakshsharma888" /> </p>
 
